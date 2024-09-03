@@ -1,7 +1,7 @@
 {
-    "_uid": 965292,
-    "__client_id": "6ba637b452316940b352e8927752677969160f9a",
-    "deepseek-key": "sk-237979ea2e3a4e44bbffc41cc3e4b335",
+    "_uid": 你的洛谷UID,
+    "__client_id": "你的洛谷_client_id",
+    "deepseek-key": "deepseek的api",
     "max_token": 4096,
     "command": {
         ":on": "~ 已开启自动回复",
