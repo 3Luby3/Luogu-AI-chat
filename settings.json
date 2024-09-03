@@ -1,0 +1,13 @@
+{
+    "_uid": 965292,
+    "__client_id": "6ba637b452316940b352e8927752677969160f9a",
+    "deepseek-key": "sk-237979ea2e3a4e44bbffc41cc3e4b335",
+    "max_token": 4096,
+    "command": {
+        ":on": "~ 已开启自动回复",
+        ":off": "~ 已关闭自动回复",
+        ":clear": "~ 已清除上下文",
+        ":help": "~ 帮助文档位于 https://luogu.codingoier.work/bot/help.pdf"
+    },
+    "tips": "你好 {username}，我是 {root}，我现在在信息学社区洛谷和你进行对话，我会保持必要的礼节，适当的拒绝不必要的请求。"
+}
